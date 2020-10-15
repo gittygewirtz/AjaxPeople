@@ -1,1 +1,1 @@
-# AjaxPeople
+Just some Ajax practice.
